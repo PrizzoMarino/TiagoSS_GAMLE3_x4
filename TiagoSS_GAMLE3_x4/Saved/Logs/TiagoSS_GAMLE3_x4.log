@@ -1884,3 +1884,484 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.15-12.35.01:494][251]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
 [2026.01.15-12.35.01:494][251]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
 [2026.01.15-12.35.01:494][251]LogShaderCompilers: Display: ================================================
+[2026.01.15-12.35.37:432][502]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.15-12.35.39:262][581]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2026.01.15-12.36.49:273][672]LogStreaming: Display: FlushAsyncLoading(480): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.15-12.36.55:842][931]LogSlate: Took 0.001523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2026.01.15-12.36.59:600][ 68]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.6/FeaturePacks/TP_ThirdPersonBP.upack)
+[2026.01.15-12.36.59:628][ 68]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2026.01.15-12.36.59:638][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Lvl_ThirdPerson.umap" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/Lvl_ThirdPerson.umap"
+[2026.01.15-12.36.59:644][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/MI_ThirdPersonColWay.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
+[2026.01.15-12.36.59:650][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+[2026.01.15-12.36.59:660][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+[2026.01.15-12.36.59:666][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_ThirdPersonPlayerController.uasset"
+[2026.01.15-12.36.59:676][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EU/X5MT1GOX9C5UUGZAKRVC3R.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/EU/X5MT1GOX9C5UUGZAKRVC3R.uasset"
+[2026.01.15-12.36.59:683][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/K3/79QZQ7KG2RXNWMD6RSPKUM.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/K3/79QZQ7KG2RXNWMD6RSPKUM.uasset"
+[2026.01.15-12.36.59:692][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset"
+[2026.01.15-12.36.59:697][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE.uasset"
+[2026.01.15-12.36.59:705][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/X5/JDOWWCJ7DZVSHT4Y29GQ4D.uasset"
+[2026.01.15-12.36.59:711][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AM/9YGDW7FMEY1CZD31VUYO11.uasset"
+[2026.01.15-12.36.59:718][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AX/QEPSHOMS1K2ANUR3LXWOJM.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/AX/QEPSHOMS1K2ANUR3LXWOJM.uasset"
+[2026.01.15-12.36.59:727][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O.uasset"
+[2026.01.15-12.36.59:732][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/V0/9XTUAMN5S6UUCFB5K0ZGZM.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/V0/9XTUAMN5S6UUCFB5K0ZGZM.uasset"
+[2026.01.15-12.36.59:741][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/25/3IO0LF8AOO4YLSEAEN2JO1.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/25/3IO0LF8AOO4YLSEAEN2JO1.uasset"
+[2026.01.15-12.36.59:746][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX.uasset"
+[2026.01.15-12.36.59:754][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2.uasset"
+[2026.01.15-12.36.59:760][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/5G/29Z6AXUGZPZ0CXHLK2DICG.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/5G/29Z6AXUGZPZ0CXHLK2DICG.uasset"
+[2026.01.15-12.36.59:766][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/6V/AV0JKCFBVPU58UEBGB0GC0.uasset"
+[2026.01.15-12.36.59:775][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H.uasset"
+[2026.01.15-12.36.59:780][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/LX/1K6D4FIEJMOF50LSVJKFMP.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/LX/1K6D4FIEJMOF50LSVJKFMP.uasset"
+[2026.01.15-12.36.59:789][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset"
+[2026.01.15-12.36.59:796][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/0/TQ/1UP2MCOIYXC0GTW985R4K0.uasset"
+[2026.01.15-12.36.59:805][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/HY/Q7CPP7VHOXBAMAJI90W626.uasset"
+[2026.01.15-12.36.59:811][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset"
+[2026.01.15-12.36.59:816][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset"
+[2026.01.15-12.36.59:826][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/0N/NTRPN55OWWUSD03K29ZOSH.uasset"
+[2026.01.15-12.36.59:831][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/L5/790AP8RYBMX9YBLGTW6WE6.uasset"
+[2026.01.15-12.36.59:840][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7.uasset"
+[2026.01.15-12.36.59:846][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/0L/IL99N1JAI1J4A2DFQBQL53.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/0L/IL99N1JAI1J4A2DFQBQL53.uasset"
+[2026.01.15-12.36.59:854][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG.uasset"
+[2026.01.15-12.36.59:861][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset"
+[2026.01.15-12.36.59:866][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4.uasset"
+[2026.01.15-12.36.59:876][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/HX/PES0ONLF01PSQTJCC5USD2.uasset"
+[2026.01.15-12.36.59:882][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7.uasset"
+[2026.01.15-12.36.59:890][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/EE/HZ5WNBFZRJYQPUA6X8TVVT.uasset"
+[2026.01.15-12.36.59:897][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalObjects__/ThirdPerson/Lvl_ThirdPerson/5/TX/O6OLZU4WSCI3YRJS922SWL.uasset"
+[2026.01.15-12.36.59:905][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE.uasset"
+[2026.01.15-12.36.59:913][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I.uasset"
+[2026.01.15-12.36.59:922][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset"
+[2026.01.15-12.36.59:929][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF.uasset"
+[2026.01.15-12.36.59:934][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HN/XXZLD30WH49IXWEHJXSVAR.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/HN/XXZLD30WH49IXWEHJXSVAR.uasset"
+[2026.01.15-12.36.59:942][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/VS/XX060WNO6GEZU5BZQCLZPP.uasset"
+[2026.01.15-12.36.59:948][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO.uasset"
+[2026.01.15-12.36.59:957][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/GV/W5DNM2FP1ON7VGU0C2BGMV.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/GV/W5DNM2FP1ON7VGU0C2BGMV.uasset"
+[2026.01.15-12.36.59:962][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset"
+[2026.01.15-12.36.59:969][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/AY/KLCRMXKI9WR2P0GDY96C36.uasset"
+[2026.01.15-12.36.59:977][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C.uasset"
+[2026.01.15-12.36.59:982][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset"
+[2026.01.15-12.36.59:991][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/P1/LRQT09TOYHOXK9DY22EIKE.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/P1/LRQT09TOYHOXK9DY22EIKE.uasset"
+[2026.01.15-12.36.59:997][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/RI/R8L7GQXCHQGMMKBPTBJTNA.uasset"
+[2026.01.15-12.37.00:006][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset"
+[2026.01.15-12.37.00:015][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset"
+[2026.01.15-12.37.00:026][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/9R/UKIMD8EYGPZFS8OC6GX24A.uasset"
+[2026.01.15-12.37.00:033][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset"
+[2026.01.15-12.37.00:041][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset"
+[2026.01.15-12.37.00:048][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset"
+[2026.01.15-12.37.00:057][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD.uasset"
+[2026.01.15-12.37.00:062][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/MG/EDRUPW3EOYDDSI6HNSIVT1.uasset"
+[2026.01.15-12.37.00:070][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/JD/OCW0UZT4ANZZD9YHEAOMAP.uasset"
+[2026.01.15-12.37.00:078][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP.uasset"
+[2026.01.15-12.37.00:083][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/BN/LKN4IB4C3UPW62GHBEKTIW.uasset"
+[2026.01.15-12.37.00:092][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3C/KAT90QYQLFOHNMOF9BEDZK.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/3C/KAT90QYQLFOHNMOF9BEDZK.uasset"
+[2026.01.15-12.37.00:097][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/96/RFQP83S9K0LC7IW8CXS6C0.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/96/RFQP83S9K0LC7IW8CXS6C0.uasset"
+[2026.01.15-12.37.00:105][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC.uasset"
+[2026.01.15-12.37.00:111][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/JR/W7S9610Y7RWELGF93FZYAE.uasset"
+[2026.01.15-12.37.00:118][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset"
+[2026.01.15-12.37.00:126][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV.uasset"
+[2026.01.15-12.37.00:133][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/UK/OT5UOZ3WBJ9P30TU3DBDEK.uasset"
+[2026.01.15-12.37.00:141][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/XM/SN8KJL01L24VVIYC52MNFR.uasset"
+[2026.01.15-12.37.00:146][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/YB/C5UDZYKFL5M0YW62JXMPIZ.uasset"
+[2026.01.15-12.37.00:154][ 68]LogPackFactory: Copied "../../../Templates/TP_ThirdPersonBP/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset" to "../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset"
+[2026.01.15-12.37.00:155][ 68]LogStreaming: Display: FlushAsyncLoading(508): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.15-12.37.00:271][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-12.37.00:393][ 68]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/MI_ThirdPersonColWay] ([1] browsable assets)...
+[2026.01.15-12.37.00:438][ 68]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/ThirdPerson/MI_ThirdPersonColWay.MI_ThirdPersonColWay]
+[2026.01.15-12.37.00:438][ 68]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/MI_ThirdPersonColWay]
+[2026.01.15-12.37.00:458][ 68]LogSavePackage: Moving output files for package: /Game/ThirdPerson/MI_ThirdPersonColWay
+[2026.01.15-12.37.00:461][ 68]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/MI_ThirdPersonColWay0D82AFB54F65EBC8592925AE10BA184D.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/MI_ThirdPersonColWay.uasset'
+[2026.01.15-12.37.00:495][ 68]LogFileHelpers: InternalPromptForCheckoutAndSave took 223.752 ms (total: 1.22 sec)
+[2026.01.15-12.37.01:514][ 68]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-12.37.01:515][ 68]LogContentValidation: Enabled validators:
+[2026.01.15-12.37.01:515][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-12.37.01:515][ 68]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-12.37.01:515][ 68]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-12.37.01:515][ 68]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-12.37.01:515][ 68]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-12.37.01:515][ 68]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-12.37.01:515][ 68]AssetCheck: /Game/ThirdPerson/MI_ThirdPersonColWay Validating asset
+[2026.01.15-12.37.01:681][ 68]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.15-12.37.10:445][154]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.15-12.37.10:462][154]LogSlate: Window 'Content Browser' being destroyed
+[2026.01.15-12.37.12:148][252]LogSlate: Window 'Add Content to the Project' being destroyed
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: ================================================
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Total job queries 18,322, among them cache hits 4,592 (25.06%), DDC hits 12,330 (67.30%), Duplicates 805 (4.39%)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Tracking 12,925 distinct input hashes that result in 11,839 distinct outputs (91.60%)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: RAM used: 158.17 MiB of 1.60 GiB budget. Usage: 9.65%
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Shaders Compiled: 595
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Jobs assigned 595, completed 595 (100%)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Average time worker was idle: 8.45 s
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Time job spent in pending queue: average 26.15 s, longest 143.24 s
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Job execution time: average 27.68 s, max 142.55 s
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Job life time (pending + execution): average 53.83 s, max 146.74
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Shader code size: total 9.438 MiB, numShaders 618, average 15.639 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 310.64 s
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.27%
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Jobs were issued in 194 batches (only local compilation was used), average 3.07 jobs/batch
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Average processing rate: 1.92 jobs/sec
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Total thread time: 2,791.333 s
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Total thread preprocess time: 441.372 s
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Percentage time preprocessing: 15.81%
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Effective parallelization: 8.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.898584
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 28.38 sec, max 62.08 sec, min 4.30 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 22.74 sec, max 22.74 sec, min 22.74 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 17.86 sec, max 80.66 sec, min 4.13 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 14.85 sec, max 14.85 sec, min 14.85 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 8.77 sec, max 12.39 sec, min 6.29 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.04% of total time (compiled   80 times, average 7.69 sec, max 11.62 sec, min 4.98 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.78% of total time (compiled   53 times, average 6.20 sec, max 56.03 sec, min 0.47 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 10.17% of total time (compiled   10 times, average 28.38 sec, max 62.08 sec, min 4.30 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.60% of total time (compiled   54 times, average 3.93 sec, max 46.40 sec, min 0.32 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.40% of total time (compiled   10 times, average 17.86 sec, max 80.66 sec, min 4.13 sec)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: === Material stats ===
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Materials Translated:    145
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Material Translation Only: 0.11 s (35%)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.15-12.38.01:589][656]LogShaderCompilers: Display: ================================================
+[2026.01.15-12.38.41:188][382]LogSlate: External Image Picker: DecompressImage failed
+[2026.01.15-12.39.07:764][ 80]LogStreaming: Display: FlushAsyncLoading(510): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.15-12.39.10:757][224]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.15-12.39.10:781][224]LogSlate: Window 'Project Settings' being destroyed
+[2026.01.15-12.39.12:023][282]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-12.39.12:041][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-12.39.12:042][282]LogPlayLevel: Display: Creating online subsystem for client :Context_3
+[2026.01.15-12.39.12:045][282]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2026.01.15-12.39.12:074][283]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.39.12:086][283]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012653s)
+[2026.01.15-12.39.12:086][283]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.012799s)
+[2026.01.15-12.39.12:140][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.15-12.39.12:142][283]LogChaosDD: Creating Chaos Debug Draw Scene for world Map
+[2026.01.15-12.39.12:145][283]LogPlayLevel: PIE: World Init took: (0.002520s)
+[2026.01.15-12.39.12:146][283]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2026.01.15-12.39.12:146][283]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-12.39.12:146][283]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-12.39.12:146][283]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-12.39.12:146][283]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-12.39.12:146][283]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-12.39.12:146][283]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-12.39.12:146][283]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-12.39.12:146][283]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-12.39.12:146][283]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-12.39.12:146][283]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-12.39.12:146][283]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-12.39.12:151][283]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-12.39.12:169][283]LogAudioMixer: Display: Using Audio Hardware Device Headphones (A10 Pro)
+[2026.01.15-12.39.12:169][283]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-12.39.12:170][283]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-12.39.12:170][283]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-12.39.12:170][283]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2026.01.15-12.39.12:171][283]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2026.01.15-12.39.12:174][283]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2026.01.15-12.39.12:174][283]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2026.01.15-12.39.12:174][283]LogInit: FAudioDevice initialized with ID 2.
+[2026.01.15-12.39.12:174][283]LogAudio: Display: Audio Device (ID: 2) registered with world 'Map'.
+[2026.01.15-12.39.12:174][283]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.15-12.39.12:181][283]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-12.39.12:186][283]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2026.01.15-13.39.12
+[2026.01.15-12.39.12:187][283]LogWorld: Bringing up level for play took: 0.004573
+[2026.01.15-12.39.12:228][283]PIE: Server logged in
+[2026.01.15-12.39.12:230][283]PIE: Play in editor total start time 0.193 seconds.
+[2026.01.15-12.39.27:202][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.39.27:202][171]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.39.27:202][171]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-12.39.27:203][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.39.27:205][171]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-12.39.27:208][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.39.27:229][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.15-12.39.27:229][171]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2026.01.15-12.39.27:229][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2026.01.15-12.39.27:235][171]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2026.01.15-12.39.27:239][171]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.39.27:242][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2026.01.15-12.39.27:307][172]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2026.01.15-12.39.53:963][555]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 663.418579
+[2026.01.15-12.39.54:112][564]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-12.39.54:112][564]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 663.551575, Update Interval: 332.242188
+[2026.01.15-12.40.04:692][926]Cmd: TRANSACTION UNDO
+[2026.01.15-12.40.04:692][926]LogEditorTransaction: Undo Move Elements
+[2026.01.15-12.40.14:157][318]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-12.40.14:313][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2026.01.15-12.40.14:337][318]LogSavePackage: Moving output files for package: /Game/Map/Map
+[2026.01.15-12.40.14:340][318]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/MapBC19A75C4B17C50B52D406A9FA5AF24D.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/Map/Map.umap'
+[2026.01.15-12.40.14:361][318]LogFileHelpers: Saving map 'Map' took 0.106
+[2026.01.15-12.40.14:378][318]LogFileHelpers: InternalPromptForCheckoutAndSave took 221.540 ms (total: 1.44 sec)
+[2026.01.15-12.40.14:487][318]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-12.40.14:487][318]LogContentValidation: Enabled validators:
+[2026.01.15-12.40.14:487][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-12.40.14:487][318]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-12.40.14:487][318]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-12.40.14:487][318]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-12.40.14:487][318]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-12.40.14:487][318]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-12.40.14:487][318]AssetCheck: /Game/Map/Map Validating asset
+[2026.01.15-12.40.15:887][397]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-12.40.15:899][397]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-12.40.15:899][397]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2026.01.15-12.40.15:904][397]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2026.01.15-12.40.15:921][398]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.40.15:925][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003940s)
+[2026.01.15-12.40.15:925][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.004027s)
+[2026.01.15-12.40.15:944][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.15-12.40.15:946][398]LogChaosDD: Creating Chaos Debug Draw Scene for world Map
+[2026.01.15-12.40.15:947][398]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2026.01.15-12.40.15:948][398]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2026.01.15-12.40.15:948][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-12.40.15:948][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-12.40.15:948][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-12.40.15:948][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-12.40.15:948][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-12.40.15:948][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-12.40.15:949][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-12.40.15:949][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-12.40.15:949][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-12.40.15:949][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-12.40.15:949][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-12.40.15:953][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-12.40.15:969][398]LogAudioMixer: Display: Using Audio Hardware Device Headphones (A10 Pro)
+[2026.01.15-12.40.15:970][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-12.40.15:970][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-12.40.15:970][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-12.40.15:971][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2026.01.15-12.40.15:971][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2026.01.15-12.40.15:973][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2026.01.15-12.40.15:973][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2026.01.15-12.40.15:973][398]LogInit: FAudioDevice initialized with ID 3.
+[2026.01.15-12.40.15:973][398]LogAudio: Display: Audio Device (ID: 3) registered with world 'Map'.
+[2026.01.15-12.40.15:973][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.15-12.40.15:977][398]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-12.40.15:977][398]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2026.01.15-13.40.15
+[2026.01.15-12.40.15:978][398]LogWorld: Bringing up level for play took: 0.000859
+[2026.01.15-12.40.15:982][398]PIE: Server logged in
+[2026.01.15-12.40.15:987][398]PIE: Play in editor total start time 0.089 seconds.
+[2026.01.15-12.40.20:089][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.40.20:089][642]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.40.20:089][642]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-12.40.20:090][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.40.20:092][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-12.40.20:094][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.40.20:113][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.40.20:114][642]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2026.01.15-12.40.20:114][642]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2026.01.15-12.40.20:117][642]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2026.01.15-12.40.20:124][642]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.15-12.40.20:219][643]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2026.01.15-12.40.26:609][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-12.40.26:757][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.15-12.40.26:775][ 15]LogSavePackage: Moving output files for package: /Game/Map/Map
+[2026.01.15-12.40.26:778][ 15]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/Map4AEC38764AA9824A8895D99F26BA1763.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/Map/Map.umap'
+[2026.01.15-12.40.26:800][ 15]LogFileHelpers: Saving map 'Map' took 0.098
+[2026.01.15-12.40.26:816][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 207.607 ms (total: 1.64 sec)
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: Enabled validators:
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-12.40.26:913][ 15]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-12.40.26:913][ 15]AssetCheck: /Game/Map/Map Validating asset
+[2026.01.15-12.40.32:257][318]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.15-12.40.33:393][376]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2026.01.15-12.40.33:827][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-12.40.33:964][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.01.15-12.40.33:989][398]LogSavePackage: Moving output files for package: /Game/Map/Map
+[2026.01.15-12.40.33:992][398]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/Map963A31CB4E105F28ECF7AAADFAE34DC3.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/Map/Map.umap'
+[2026.01.15-12.40.34:012][398]LogFileHelpers: Saving map 'Map' took 0.101
+[2026.01.15-12.40.34:026][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 199.229 ms (total: 1.84 sec)
+[2026.01.15-12.40.34:128][398]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-12.40.34:128][398]LogContentValidation: Enabled validators:
+[2026.01.15-12.40.34:128][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-12.40.34:128][398]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-12.40.34:128][398]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-12.40.34:128][398]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-12.40.34:128][398]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-12.40.34:128][398]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-12.40.34:128][398]AssetCheck: /Game/Map/Map Validating asset
+[2026.01.15-12.40.34:670][430]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-12.40.34:681][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-12.40.34:709][430]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2026.01.15-12.40.34:712][430]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2026.01.15-12.40.34:737][431]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.40.34:741][431]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004708s)
+[2026.01.15-12.40.34:741][431]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.004767s)
+[2026.01.15-12.40.34:761][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2026.01.15-12.40.34:763][431]LogChaosDD: Creating Chaos Debug Draw Scene for world Map
+[2026.01.15-12.40.34:765][431]LogPlayLevel: PIE: World Init took: (0.002030s)
+[2026.01.15-12.40.34:766][431]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2026.01.15-12.40.34:766][431]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-12.40.34:766][431]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-12.40.34:766][431]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-12.40.34:766][431]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-12.40.34:766][431]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-12.40.34:766][431]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-12.40.34:766][431]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-12.40.34:766][431]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-12.40.34:766][431]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-12.40.34:766][431]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-12.40.34:766][431]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-12.40.34:771][431]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-12.40.34:787][431]LogAudioMixer: Display: Using Audio Hardware Device Headphones (A10 Pro)
+[2026.01.15-12.40.34:787][431]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-12.40.34:787][431]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-12.40.34:787][431]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-12.40.34:788][431]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2026.01.15-12.40.34:788][431]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2026.01.15-12.40.34:791][431]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2026.01.15-12.40.34:791][431]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2026.01.15-12.40.34:791][431]LogInit: FAudioDevice initialized with ID 4.
+[2026.01.15-12.40.34:791][431]LogAudio: Display: Audio Device (ID: 4) registered with world 'Map'.
+[2026.01.15-12.40.34:791][431]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.15-12.40.34:794][431]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-12.40.34:796][431]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2026.01.15-13.40.34
+[2026.01.15-12.40.34:796][431]LogWorld: Bringing up level for play took: 0.000935
+[2026.01.15-12.40.34:802][431]PIE: Server logged in
+[2026.01.15-12.40.34:804][431]PIE: Play in editor total start time 0.123 seconds.
+[2026.01.15-12.40.55:720][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.40.55:720][683]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.40.55:720][683]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-12.40.55:720][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.40.55:723][683]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-12.40.55:726][683]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.40.55:748][683]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.40.55:748][683]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2026.01.15-12.40.55:748][683]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2026.01.15-12.40.55:753][683]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2026.01.15-12.40.55:760][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.15-12.40.55:825][684]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: ================================================
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Total job queries 18,350, among them cache hits 4,599 (25.06%), DDC hits 12,349 (67.30%), Duplicates 805 (4.39%)
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Tracking 12,946 distinct input hashes that result in 11,857 distinct outputs (91.59%)
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: RAM used: 158.31 MiB of 1.60 GiB budget. Usage: 9.66%
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Shaders Compiled: 597
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Jobs assigned 597, completed 597 (100%)
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Average time worker was idle: 9.88 s
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Time job spent in pending queue: average 26.06 s, longest 143.24 s
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Job execution time: average 27.59 s, max 142.55 s
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Job life time (pending + execution): average 53.65 s, max 146.74
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Shader code size: total 9.451 MiB, numShaders 620, average 15.61 KiB, min 2.246 KiB, max 55.505 KiB
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 311.75 s
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.27%
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Jobs were issued in 196 batches (only local compilation was used), average 3.05 jobs/batch
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Average processing rate: 1.91 jobs/sec
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Total thread time: 2,792.571 s
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Total thread preprocess time: 442.005 s
+[2026.01.15-12.41.01:595][ 24]LogShaderCompilers: Display: Percentage time preprocessing: 15.83%
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Effective parallelization: 8.96 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.895769
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   10 times, average 28.38 sec, max 62.08 sec, min 4.30 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                      FPathTracingBuildCloudAccelerationMapCS (compiled    1 times, average 22.74 sec, max 22.74 sec, min 22.74 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   10 times, average 17.86 sec, max 80.66 sec, min 4.13 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                                        FRayTracingLightingMS (compiled    1 times, average 14.85 sec, max 14.85 sec, min 14.85 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                         FLumenVisualizeHardwareRayTracingRGS (compiled    8 times, average 8.77 sec, max 12.39 sec, min 6.29 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                        FLumenReflectionHardwareRayTracingRGS - 22.03% of total time (compiled   80 times, average 7.69 sec, max 11.62 sec, min 4.98 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 11.80% of total time (compiled   54 times, average 6.10 sec, max 56.03 sec, min 0.47 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 10.16% of total time (compiled   10 times, average 28.38 sec, max 62.08 sec, min 4.30 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 7.61% of total time (compiled   55 times, average 3.87 sec, max 46.40 sec, min 0.32 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 6.40% of total time (compiled   10 times, average 17.86 sec, max 80.66 sec, min 4.13 sec)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: === Material stats ===
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Materials Translated:    145
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Material Total Translate Time: 0.32 s
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Material Translation Only: 0.11 s (35%)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.15-12.41.01:596][ 24]LogShaderCompilers: Display: ================================================
+[2026.01.15-12.41.24:389][692]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2026.01.15-12.41.38:031][490]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2026.01.15-12.43.40:188][379]Cmd: DELETE
+[2026.01.15-12.43.40:198][379]Cmd: ACTOR DELETE
+[2026.01.15-12.43.40:207][379]LogEditorActor: Deleted Actor: Brush
+[2026.01.15-12.43.40:235][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2026.01.15-12.43.40:274][379]LogEditorActor: Deleted 1 Actors (0.073 secs)
+[2026.01.15-12.43.58:605][461]Cmd: TRANSACTION UNDO
+[2026.01.15-12.43.58:605][461]LogEditorTransaction: Undo Delete Elements
+[2026.01.15-12.44.01:192][568]Cmd: DELETE
+[2026.01.15-12.44.01:192][568]Cmd: ACTOR DELETE
+[2026.01.15-12.44.01:200][568]LogEditorActor: Deleted Actor: Brush
+[2026.01.15-12.44.01:221][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2026.01.15-12.44.01:262][568]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2026.01.15-12.45.28:682][119]Cmd: TRANSACTION UNDO
+[2026.01.15-12.45.28:682][119]LogEditorTransaction: Undo Move Elements
+[2026.01.15-12.45.29:469][138]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.15-12.45.29:640][138]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2026.01.15-12.45.29:681][138]LogSavePackage: Moving output files for package: /Game/Map/Map
+[2026.01.15-12.45.29:685][138]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/MapE7F7B64F4EAE69774CC62891BF6A7133.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/Map/Map.umap'
+[2026.01.15-12.45.29:706][138]LogFileHelpers: Saving map 'Map' took 0.133
+[2026.01.15-12.45.29:728][138]LogFileHelpers: InternalPromptForCheckoutAndSave took 258.502 ms (total: 2.10 sec)
+[2026.01.15-12.45.29:816][138]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.15-12.45.29:816][138]LogContentValidation: Enabled validators:
+[2026.01.15-12.45.29:816][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.15-12.45.29:816][138]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.15-12.45.29:816][138]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.15-12.45.29:816][138]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.15-12.45.29:816][138]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.15-12.45.29:816][138]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.15-12.45.29:816][138]AssetCheck: /Game/Map/Map Validating asset
+[2026.01.15-12.45.30:531][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 999.982727
+[2026.01.15-12.45.30:700][189]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-12.45.30:700][189]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1000.134521, Update Interval: 318.151794
+[2026.01.15-12.45.35:850][392]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.01.15-12.45.35:868][392]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.01.15-12.45.35:868][392]LogPlayLevel: Display: Creating online subsystem for client :Context_6
+[2026.01.15-12.45.35:872][392]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2026.01.15-12.45.35:892][393]LogPlayLevel: Creating play world package: /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.45.35:907][393]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015704s)
+[2026.01.15-12.45.35:907][393]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Map/Map.Map to /Game/Map/UEDPIE_0_Map.Map (0.015763s)
+[2026.01.15-12.45.35:933][393]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.15-12.45.35:935][393]LogChaosDD: Creating Chaos Debug Draw Scene for world Map
+[2026.01.15-12.45.35:937][393]LogPlayLevel: PIE: World Init took: (0.001956s)
+[2026.01.15-12.45.35:938][393]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2026.01.15-12.45.35:938][393]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.01.15-12.45.35:938][393]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.01.15-12.45.35:938][393]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.01.15-12.45.35:938][393]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.01.15-12.45.35:938][393]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.01.15-12.45.35:938][393]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.01.15-12.45.35:938][393]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.01.15-12.45.35:938][393]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.01.15-12.45.35:938][393]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.01.15-12.45.35:938][393]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.01.15-12.45.35:938][393]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.01.15-12.45.35:941][393]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.01.15-12.45.35:959][393]LogAudioMixer: Display: Using Audio Hardware Device Headphones (A10 Pro)
+[2026.01.15-12.45.35:961][393]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.01.15-12.45.35:961][393]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.01.15-12.45.35:961][393]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.01.15-12.45.35:962][393]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2026.01.15-12.45.35:962][393]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2026.01.15-12.45.35:966][393]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2026.01.15-12.45.35:966][393]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2026.01.15-12.45.35:966][393]LogInit: FAudioDevice initialized with ID 5.
+[2026.01.15-12.45.35:966][393]LogAudio: Display: Audio Device (ID: 5) registered with world 'Map'.
+[2026.01.15-12.45.35:966][393]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.15-12.45.35:969][393]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2026.01.15-12.45.35:971][393]LogWorld: Bringing World /Game/Map/UEDPIE_0_Map.Map up for play (max tick rate 60) at 2026.01.15-13.45.35
+[2026.01.15-12.45.35:971][393]LogWorld: Bringing up level for play took: 0.001190
+[2026.01.15-12.45.35:977][393]PIE: Server logged in
+[2026.01.15-12.45.35:980][393]PIE: Play in editor total start time 0.112 seconds.
+[2026.01.15-12.45.51:730][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.45.51:730][221]LogWorld: BeginTearingDown for /Game/Map/UEDPIE_0_Map
+[2026.01.15-12.45.51:730][221]LogWorld: UWorld::CleanupWorld for Map, bSessionEnded=true, bCleanupResources=true
+[2026.01.15-12.45.51:731][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.45.51:733][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.01.15-12.45.51:735][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.15-12.45.51:757][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.01.15-12.45.51:757][221]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2026.01.15-12.45.51:757][221]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2026.01.15-12.45.51:763][221]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2026.01.15-12.45.51:772][221]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.15-12.45.51:879][222]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2026.01.15-12.47.05:509][541]LogSlate: Window 'Add Content to the Project' being destroyed
+[2026.01.15-12.47.25:834][668]LogSlate: Window 'Add Content to the Project' being destroyed
+[2026.01.15-12.50.58:148][995]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1327.601562
+[2026.01.15-12.50.59:146][998]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.15-12.50.59:146][998]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1328.266602, Update Interval: 346.929535
