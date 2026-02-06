@@ -6,7 +6,35 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/Map/Map.umap",
-				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/MI_ThirdPersonColWay.uasset"
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/MI_ThirdPersonColWay.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/BP_Patroller.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/BP_Door.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire_Montage.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/BP_Climable.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/M_Climable.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/BP_Patrollerr.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/BP_PatrolPoint.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_CHair.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Door.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Barrel.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_BarrelHolder.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Book.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_ChurchChair.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_HayStack.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_WindowSplit.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_LightHead.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_LightPole.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/BP_Text.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/M_range.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/M_Enemy1.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/M_Enemy2.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/M_Enemy3.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Card.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Chest.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Paper.uasset",
+				"C:/Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Trail.uasset"
 			]
 		}
 	]
