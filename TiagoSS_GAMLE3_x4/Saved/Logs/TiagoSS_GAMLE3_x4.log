@@ -4806,3 +4806,60 @@ Scale3D: 1.000000 1.000000 1.000000
 [2026.02.06-20.37.20:511][  0]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12309.261719
 [2026.02.06-20.37.21:510][  3]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.02.06-20.37.21:510][  3]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12309.930664, Update Interval: 302.726532
+[2026.02.06-20.38.16:502][503]LogStreaming: Display: FlushAsyncLoading(574): 1 QueuedPackages, 0 AsyncPackages
+[2026.02.06-20.38.16:524][503]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Patroller.BP_Patroller
+[2026.02.06-20.38.16:525][503]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_21
+[2026.02.06-20.38.17:307][503]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_22
+[2026.02.06-20.38.31:823][281]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2026.02.06-20.38.33:081][281]LogSlate: Window 'Save Content' being destroyed
+[2026.02.06-20.38.34:565][342]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2026.02.06-20.38.34:565][342]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_23
+[2026.02.06-20.38.48:197][991]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-20.38.48:311][991]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2026.02.06-20.38.48:324][991]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2026.02.06-20.38.48:324][991]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2026.02.06-20.38.48:376][991]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2026.02.06-20.38.48:379][991]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/BP_ThirdPersonCharacter0764707045A20B1612AB459EFAEC2EA6.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2026.02.06-20.38.48:399][991]LogFileHelpers: InternalPromptForCheckoutAndSave took 200.337 ms (total: 32.2 sec)
+[2026.02.06-20.38.48:500][991]LogContentValidation: Display: Starting to validate 1 assets
+[2026.02.06-20.38.48:500][991]LogContentValidation: Enabled validators:
+[2026.02.06-20.38.48:500][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.06-20.38.48:500][991]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.06-20.38.48:500][991]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.06-20.38.48:500][991]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.06-20.38.48:500][991]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.06-20.38.48:500][991]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.06-20.38.48:500][991]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2026.02.06-20.38.50:288][ 78]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_23:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:0469
+[2026.02.06-20.38.50:289][ 78]LogScript: Warning: Attempted to access REINST_BP_ThirdPersonCharacter_C_0 via property Character, but REINST_BP_ThirdPersonCharacter_C_0 is not valid (pending kill or garbage)
+	ABP_Unarmed_C /Engine/Transient.World_7:PersistentLevel.REINST_BP_ThirdPersonCharacter_C_0.CharacterMesh0.ABP_Unarmed_C_0
+	Function /Game/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.ABP_Unarmed_C:ExecuteUbergraph_ABP_Unarmed:0469
+[2026.02.06-20.38.50:361][ 78]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2026.02.06-20.39.05:742][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.02.06-20.39.06:623][354]LogSlate: Window 'Save Content' being destroyed
+[2026.02.06-20.39.06:641][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.02.06-20.39.06:740][354]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SM/SM_Shackle] ([1] browsable assets)...
+[2026.02.06-20.39.06:740][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM/SM_Shackle]
+[2026.02.06-20.39.06:740][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM/SM_Shackle" FILE="../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Shackle.uasset" SILENT=true
+[2026.02.06-20.39.06:751][354]LogSavePackage: Moving output files for package: /Game/SM/SM_Shackle
+[2026.02.06-20.39.06:751][354]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/SM_Shackle4B7CC1A44F9BEC11A5CB5F9AAD3DFEA9.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_Shackle.uasset'
+[2026.02.06-20.39.06:759][354]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SM/SM_clothing] ([1] browsable assets)...
+[2026.02.06-20.39.06:774][354]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/SM/SM_clothing.SM_clothing]
+[2026.02.06-20.39.06:774][354]OBJ SavePackage: Finished generating thumbnails for package [/Game/SM/SM_clothing]
+[2026.02.06-20.39.06:774][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SM/SM_clothing" FILE="../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_clothing.uasset" SILENT=true
+[2026.02.06-20.39.06:790][354]LogSavePackage: Moving output files for package: /Game/SM/SM_clothing
+[2026.02.06-20.39.06:790][354]LogSavePackage: Moving '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/SM_clothing8C16FFF947463A8F98A26D815D60CA49.tmp' to '../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Content/SM/SM_clothing.uasset'
+[2026.02.06-20.39.06:808][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.233 ms (total: 32.4 sec)
+[2026.02.06-20.39.06:906][354]LogContentValidation: Display: Starting to validate 2 assets
+[2026.02.06-20.39.06:906][354]LogContentValidation: Enabled validators:
+[2026.02.06-20.39.06:906][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.02.06-20.39.06:906][354]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.02.06-20.39.06:906][354]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.02.06-20.39.06:906][354]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.02.06-20.39.06:906][354]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.02.06-20.39.06:906][354]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.02.06-20.39.06:906][354]AssetCheck: /Game/SM/SM_Shackle Validating asset
+[2026.02.06-20.39.06:906][354]AssetCheck: /Game/SM/SM_clothing Validating asset
+[2026.02.06-20.39.06:939][354]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/prizm/Documents/GitHub/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/TiagoSS_GAMLE3_x4/Saved/SourceControl/UncontrolledChangelists.json
